@@ -34,8 +34,8 @@ img {
 .n-mt-5 {
     margin-top: -3rem;
 }
-.section-margin {
-    margin-top: 100px;
+.section-padding {
+    padding-top: 100px;
 }
 .text-wheat {
     color: wheat !important;
