@@ -9,9 +9,3 @@ function fun(){
 }
 fun()
 window.addEventListener('resize' , ()=>{fun()})
-
-// profile.forEach(function(images){
-//     let a = images.scrollWidth;
-//     images.style.height = a+'px';
-//     console.log(images)
-// })
