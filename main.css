@@ -24,6 +24,9 @@ img {
 .fw-900 {
     font-weight: 900;
 }
+.fs-7 {
+    font-size: 0.8rem;
+}
 .btn {
     font-weight: 500;
     text-transform: uppercase;
@@ -143,8 +146,8 @@ header {
     background-color: blue;
 }
 .author-image img {
-    height: 100px;
-    width: 100px;
+    height: 70px;
+    width: 70px;
 }
 
 
@@ -217,9 +220,13 @@ header {
     }    
     .testimonials {
         padding: 0px 200px;
-    }
+    }  
  }
 @media (min-width: 1200px) { 
+    .author-image img {
+        height: 100px;
+        width: 100px;
+    }  
 
  }
 @media (min-width: 1400px) {
