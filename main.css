@@ -145,10 +145,10 @@ header {
 .carousel-indicators [data-bs-target] {
     background-color: blue;
 }
-.author-image img {
+/* .author-image img {
     height: 70px;
     width: 70px;
-}
+} */
 
 
 
@@ -223,10 +223,10 @@ header {
     }  
  }
 @media (min-width: 1200px) { 
-    .author-image img {
+    /* .author-image img {
         height: 100px;
         width: 100px;
-    }  
+    }   */
 
  }
 @media (min-width: 1400px) {
