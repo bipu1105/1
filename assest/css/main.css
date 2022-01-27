@@ -39,7 +39,9 @@ img {
 .text-wheat {
     color: wheat !important;
 }
-
+.gx-0{
+--bs-gutter-x:0 !important;
+}
 /*  HEADER */
 header {
     z-index: 1000;

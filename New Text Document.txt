@@ -1,5 +1,0 @@
-how to get image from ps
-negative margin
-svg color changing
-gradient like clip path
-custom navbar
